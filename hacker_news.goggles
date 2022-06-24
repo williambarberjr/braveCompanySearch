@@ -1,7 +1,7 @@
 ! name: Hacker News / 2k short
 ! description: Prioritizes domains popular with the Hacker News community, minus those that would rank among the top 1000 most-viewed websites.
 ! author: Goggles 101
-! public: true
+! public: false
 ! avatar: #ff6600
 
 $discard
