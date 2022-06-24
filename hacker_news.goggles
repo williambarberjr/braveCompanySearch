@@ -1,11 +1,7 @@
 ! name: Test setup
-! description: Prioritizes domains popular with the Hacker News community, minus those that would rank among the top 1000 most-viewed websites.
+! description: Only searches tld com home pages
 ! author: Goggles 101
 ! public: false
 ! avatar: #ff6600
 
-$discard
-$boost=4,site=blog.samaltman.com
-$boost=4,site=paulgraham.com
-$boost=4,site=blog.rust-lang.org
-$boost=4,site=blog.ycombinator.com
+|http*.com|
