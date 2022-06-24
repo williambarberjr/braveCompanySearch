@@ -1,0 +1,7 @@
+! name: Test setup
+! description: Only searches tld com home pages
+! author: Goggles 101
+! public: false
+! avatar: #ff6600
+
+|http*.com|
