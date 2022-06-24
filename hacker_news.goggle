@@ -1,0 +1,7 @@
+! name: Company Search
+! description: Searches home pages
+! author: William Barber
+! public: false
+! avatar: #ff6600
+
+|http*.com|
