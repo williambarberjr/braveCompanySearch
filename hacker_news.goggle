@@ -1,8 +1,11 @@
-! name: Company Search
-! description: Searches home pages
-! author: William Barber
-! public: false
+! name: Hacker News / 2k short
+! description: Prioritizes domains popular with the Hacker News community, minus those that would rank among the top 1000 most-viewed websites.
+! author: Goggles 101
+! public: true
 ! avatar: #ff6600
 
 $discard
 $boost=4,site=blog.samaltman.com
+$boost=4,site=paulgraham.com
+$boost=4,site=blog.rust-lang.org
+$boost=4,site=blog.ycombinator.com
