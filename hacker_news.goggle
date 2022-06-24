@@ -4,4 +4,5 @@
 ! public: false
 ! avatar: #ff6600
 
-$.com|
+$discard
+$boost=4,site=blog.samaltman.com
