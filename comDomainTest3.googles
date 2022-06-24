@@ -5,3 +5,5 @@
 ! avatar: #ff6600
 
 .com/|
+$discard,|https://*.com/*/|
+$discard,|http://*.com/*/|
