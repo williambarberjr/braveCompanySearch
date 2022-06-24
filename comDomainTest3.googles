@@ -1,9 +1,0 @@
-! name: Com domain only homepages test 2
-! description: Only searches tld com home pages
-! author: Goggles 101
-! public: false
-! avatar: #ff6600
-
-.com/|
-|https://*.com/*/|$discard
-|http://*.com/*/|$discard

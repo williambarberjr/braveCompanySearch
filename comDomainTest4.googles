@@ -1,0 +1,33 @@
+! name: Com domain only hpt3
+! description: Only searches tld com home pages
+! author: Goggles 101
+! public: false
+! avatar: #ff6600
+
+.com/|
+.com/a*|$discard
+.com/b*|$discard
+.com/c*|$discard
+.com/d*|$discard
+.com/e*|$discard
+.com/f*|$discard
+.com/g*|$discard
+.com/h*|$discard
+.com/i*|$discard
+.com/j*|$discard
+.com/k*|$discard
+.com/l*|$discard
+.com/m*|$discard
+.com/n*|$discard
+.com/o*|$discard
+.com/p*|$discard
+.com/q*|$discard
+.com/r*|$discard
+.com/s*|$discard
+.com/t*|$discard
+.com/u*|$discard
+.com/v*|$discard
+.com/w*|$discard
+.com/x*|$discard
+.com/y*|$discard
+.com/z*|$discard
