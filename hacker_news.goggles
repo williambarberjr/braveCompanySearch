@@ -1,4 +1,4 @@
-! name: Hacker News / 2k short
+! name: Test setup
 ! description: Prioritizes domains popular with the Hacker News community, minus those that would rank among the top 1000 most-viewed websites.
 ! author: Goggles 101
 ! public: false
